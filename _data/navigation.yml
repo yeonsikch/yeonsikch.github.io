@@ -20,7 +20,7 @@ docs:
       - title: "Classification (test)"
         url:  /./
       - title: "Object Detection"
-        url:  /_posts/
+        url:  /first/
   - title: Deep Learning
     children:
       - title: "핸즈온 머신러닝 2판"
