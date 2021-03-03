@@ -27,7 +27,7 @@ docs:
   - title: Computer Vision
     children:
       - title: "Computer Vision"
-        url: /Computer-Vision/
+        url: /computer-vision/
 #   - title: git
 #     children:
 #       - title: "git"
