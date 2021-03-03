@@ -3,7 +3,7 @@ author_profile: true
 sidebar:
   nav: "docs"
 layout: post
-category: "paper/object-detection"
+category: "object-detection"
 comments: true
 title: "Faster R-CNN"
 ---
