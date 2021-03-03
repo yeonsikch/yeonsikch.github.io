@@ -1,0 +1,11 @@
+---
+author_profile: true
+sidebar:
+  nav: "docs"
+layout: single
+title: "Computer Vision"
+---
+
+# Intro
+앞으로 공부하면서 Computer Vision에 대한 내용들을 해당 목차에 저장하려고 합니다.
+글의 작성 목적은 단순히 저의 공부를 위함이며, 중간에 잘못된 내용이 있다면 언제든지 지적해주시면 감사하겠습니다.
