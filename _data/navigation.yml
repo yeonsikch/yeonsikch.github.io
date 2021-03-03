@@ -17,7 +17,7 @@ docs:
     url: https://yeonsikch.github.io/
   - title: 논문읽기
     children:
-      - title: "Classification"
+      - title: "Classification (test)"
         url:  /./
       - title: "Object Detection"
         url:  /_posts/
