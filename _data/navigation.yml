@@ -15,10 +15,8 @@ main:
 docs:
   - title: "Home"
     url: https://yeonsikch.github.io/
-  - title: "논문읽기22"
+  - title: "논문읽기"
     children:
-      - title: "Classification (test)"
-        url:  /./
       - title: "Object Detection"
         url:  /first/
 #   - title: Deep Learning
@@ -28,7 +26,7 @@ docs:
   - title: Computer Vision
     children:
       - title: "Computer Vision"
-        url: /_posts/
+        url: /first/
 #   - title: git
 #     children:
 #       - title: "git"
