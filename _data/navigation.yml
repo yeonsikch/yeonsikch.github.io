@@ -18,13 +18,13 @@ docs:
   - title: "Paper"
     children:
       - title: "Object Detection"
-        url:  /first/
+        url:  /object-detection/
 #   - title: Deep Learning
 #     children:
 #       - title: "핸즈온 머신러닝 2판"
 #         url: /_posts/
   - title: Major Book
-  - title: Computer Vision
+  - title: Study
     children:
       - title: "Computer Vision"
         url: /computer-vision/
