@@ -2,14 +2,14 @@
 main:
   - title: "Home"
     url: https://yeonsikch.github.io/
-  - title: "About"
-    url: https://yeonsikch.github.io/
-  - title: "Paper"
-    url: /year-archive/
-  - title: "Sample Collections"
-    url: /collection-archive/
-  - title: "Sitemap"
-    url: /sitemap/
+#   - title: "About"
+#     url: https://yeonsikch.github.io/
+#   - title: "Paper"
+#     url: /year-archive/
+#   - title: "Sample Collections"
+#     url: /collection-archive/
+#   - title: "Sitemap"
+#     url: /sitemap/
 
 # Sidebar
 docs:
