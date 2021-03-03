@@ -18,7 +18,7 @@ docs:
   - title: 논문읽기
     children:
       - title: "Classification"
-        url:  /_posts/
+        url:  /./
       - title: "Object Detection"
         url:  /_posts/
   - title: Deep Learning
