@@ -16,18 +16,20 @@ docs:
   - title: "Home"
     url: https://yeonsikch.github.io/
   - title: "Paper"
+    url: /paper/
     children:
       - title: "Object Detection"
-        url:  /object-detection/
+        url:  /paper/object-detection/
 #   - title: Deep Learning
 #     children:
 #       - title: "핸즈온 머신러닝 2판"
 #         url: /_posts/
   - title: Major Book
   - title: Study
+    url: /study/
     children:
       - title: "Computer Vision"
-        url: /computer-vision/
+        url: /study/computer-vision/
 #   - title: git
 #     children:
 #       - title: "git"
